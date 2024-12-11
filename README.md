@@ -1,5 +1,6 @@
 
 
+
 **Day 01 **
 **Learning Basics about **
 printing a simple text 
@@ -12,3 +13,4 @@ check whether the number is odd
 finding the maximum of 3  numbers using if else else if else 
 calculate the simple interest when principle rate time given using si = ptr/100
 converting the character into ascii using int(a) value 
+
