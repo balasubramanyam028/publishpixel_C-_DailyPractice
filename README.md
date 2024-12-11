@@ -1,9 +1,7 @@
-# publishpixel_C-_DailyPractice
-this is a place where i will copy 10 day practice of c++ to revise and pursue c++ towards game development 
-Daily Practice 
 
-Day 01 
-Learning Basics about 
+
+**Day 01 **
+**Learning Basics about **
 printing a simple text 
 printing a simple text with custom input 
 printing addition of two numbers
